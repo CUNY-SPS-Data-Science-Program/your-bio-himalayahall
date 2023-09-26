@@ -13,7 +13,7 @@ Present your story using  heat maps
 ## Data
 
 ## Firearm Related Mortality
-Firearm related mortality data for each state from the [CDC](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm). Data was acquired using the [Socrate API](https://dev.socrata.com) and wrangled for this presentation. See DataWrangling.ipynb for details.
+Firearm related mortality data for each state from the [CDC](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm). Data was acquired using the [Socrate API](https://dev.socrata.com) and wrangled for this presentation. See [DataWrangling.ipynb](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%203/DataWrangling.ipynb) for details.
 
 ## Gun Law Score
 [Giffords Gun Law Scorecard](https://giffords.org/lawcenter/resources/scorecard) for each state. Giffords gun law score have the following scale, from strongest gun laws to weakest: \[A+, A, A-, B+, B, B-, C+, C, C-, D+, D, D-, F\]. 
