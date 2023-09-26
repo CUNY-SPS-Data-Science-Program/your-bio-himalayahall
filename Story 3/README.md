@@ -18,7 +18,7 @@ Firearm related mortality data for each state from the [CDC](https://www.cdc.gov
 ## Gun Law Score
 [Giffords Gun Law Scorecard](https://giffords.org/lawcenter/resources/scorecard) for each state. Giffords gun law score have the following scale, from strongest gun laws to weakest: \[A+, A, A-, B+, B, B-, C+, C, C-, D+, D, D-, F\]. 
 
-NOriginal Giffords scores have been coerced into a 5-point [Likert scale](https://en.wikipedia.org/wiki/Likert_scale) and a numeric grade was assigned to each letter grade: \[A: 4, B: 3, C: 2, D: 1, F: 0\].
+Original Giffords scores have been coerced into a 5-point [Likert scale](https://en.wikipedia.org/wiki/Likert_scale) and a numeric grade was assigned to each letter grade: \[A: 4, B: 3, C: 2, D: 1, F: 0\].
 
 # Presentation
 
