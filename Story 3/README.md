@@ -24,13 +24,13 @@ NOriginal Giffords scores have been coerced into a 5-point [Likert scale](https:
 
 The presentation uses [Plotly](https://plotly.com/graphing-libraries/) for rendering dynamic plots. 
 
-## Interactive
+## Interactive Presentation
 
-To fully experience the dynamic plots, do one of the following:
+To fully experience the dynamic presentation, do one of the following:
 
 - Download and load the standalone [html file](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%203/Story3.html) in your favorite browser.
 - Download and run the [Jupyter Notebook](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%203/Story3.ipynb)
 
-## Static
+## Static Presentation
 
 A PDF version of the Jupyter Notebook is available [here](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%203/Story3.pdf).
