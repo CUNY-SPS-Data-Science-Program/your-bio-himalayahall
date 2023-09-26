@@ -10,7 +10,7 @@ Determine wether stricter gun control laws result in reduced gun violence deaths
 
 Present your story using  heat maps
 
-## Data
+# Data
 
 ## Firearm Related Mortality
 Firearm related mortality data for each state from the [CDC](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm). Data was acquired using the [Socrate API](https://dev.socrata.com) and wrangled for this presentation. See [DataWrangling.ipynb](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%203/DataWrangling.ipynb) for details.
@@ -18,5 +18,19 @@ Firearm related mortality data for each state from the [CDC](https://www.cdc.gov
 ## Gun Law Score
 [Giffords Gun Law Scorecard](https://giffords.org/lawcenter/resources/scorecard) for each state. Giffords gun law score have the following scale, from strongest gun laws to weakest: \[A+, A, A-, B+, B, B-, C+, C, C-, D+, D, D-, F\]. 
 
-NOriginal Giffords scores have been coerced into a 5-point [Likert scale](https://en.wikipedia.org/wiki/Likert_scale) and a numeric grade was assigned to each letter grade: \[A: 4, B: 3, C: 2, D: 1, F: 0\]. 
+NOriginal Giffords scores have been coerced into a 5-point [Likert scale](https://en.wikipedia.org/wiki/Likert_scale) and a numeric grade was assigned to each letter grade: \[A: 4, B: 3, C: 2, D: 1, F: 0\].
 
+# Presentation
+
+The presentation uses [Plotly](https://plotly.com/graphing-libraries/) for rendering dynamic plots. 
+
+## Interactive
+
+To fully experience the dynamic plots, do one of the following:
+
+- Download and load the standalone [html file](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%203/Story3.html) in your favorite browser.
+- Download and run the [Jupyter Notebook](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%203/Story3.ipynb)
+
+## Static
+
+A PDF version of the Jupyter Notebook is available [here](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%203/Story3.pdf).
