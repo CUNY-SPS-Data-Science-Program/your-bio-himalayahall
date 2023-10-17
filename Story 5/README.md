@@ -21,4 +21,4 @@ This assignment is due at the end of the week ten of the semester.
 
 # Presentation
 
-Presentation is available in [MS PowerPoint]() and [PDF]() formats.
+Presentation is available in [MS PowerPoint](), [PDF](), and [Interactive HTML]() formats.
