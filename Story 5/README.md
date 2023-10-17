@@ -21,4 +21,4 @@ This assignment is due at the end of the week ten of the semester.
 
 # Presentation
 
-Presentation is available in [MS PowerPoint](), [PDF](), and [Interactive HTML]() formats.
+Presentation is available in [MS PowerPoint](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%205/Are%20rising%20Land%20and%20Sea%20tempereratures%20responsible%20for%20unprecedented%20Cyclonic%20Storms..pptx), [PDF](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%205/Are%20rising%20Land%20and%20Sea%20tempereratures%20responsible%20for%20unprecedented%20Cyclonic%20Storms..pdf), and [Interactive HTML](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%205/Story5.html) formats.
