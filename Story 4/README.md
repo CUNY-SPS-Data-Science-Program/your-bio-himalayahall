@@ -30,3 +30,7 @@ After a lot of trial and error, data for the following job titles was acquired:
 - Data Warehouse Engineer
 - Machine Learning Engineer
 
+# Presentation
+- [PDF](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%204/Data%20Practitioner_%20How%20much%20do%20we%20get%20paid.pdf)
+- [MS PowerPoint](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%204/Data%20Practitioner_%20How%20much%20do%20we%20get%20paid.pptx), has to be downloaded.
+- [Interactive HTML](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%204/Story4.html), has to be downloaded.
