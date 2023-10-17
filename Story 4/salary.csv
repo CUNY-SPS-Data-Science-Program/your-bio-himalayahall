@@ -1,0 +1,301 @@
+State,Annual Salary,Monthly Pay,Weeky Pay,Hourly Wage,Job Title,State Code
+New York,98238,8186,1889,47.23,Data Analyst,NY
+New Jersey,84878,7073,1632,40.81,Data Analyst,NJ
+Wisconsin,84340,7028,1621,40.55,Data Analyst,WI
+Nevada,83624,6968,1608,40.20,Data Analyst,NV
+Wyoming,83611,6967,1607,40.20,Data Analyst,WY
+Massachusetts,83473,6956,1605,40.13,Data Analyst,MA
+Indiana,82490,6874,1586,39.66,Data Analyst,IN
+Arizona,82463,6871,1585,39.65,Data Analyst,AZ
+New Hampshire,82409,6867,1584,39.62,Data Analyst,NH
+Pennsylvania,82161,6846,1580,39.50,Data Analyst,PA
+Oregon,81828,6819,1573,39.34,Data Analyst,OR
+Minnesota,81303,6775,1563,39.09,Data Analyst,MN
+Washington,81244,6770,1562,39.06,Data Analyst,WA
+Georgia,81062,6755,1558,38.97,Data Analyst,GA
+Hawaii,80736,6728,1552,38.82,Data Analyst,HI
+Montana,79115,6592,1521,38.04,Data Analyst,MT
+Alaska,79092,6591,1521,38.03,Data Analyst,AK
+Iowa,78124,6510,1502,37.56,Data Analyst,IA
+Rhode Island,77290,6440,1486,37.16,Data Analyst,RI
+South Dakota,77115,6426,1482,37.07,Data Analyst,SD
+North Dakota,77057,6421,1481,37.05,Data Analyst,ND
+Connecticut,77036,6419,1481,37.04,Data Analyst,CT
+New Mexico,76401,6366,1469,36.73,Data Analyst,NM
+California,75874,6322,1459,36.48,Data Analyst,CA
+Ohio,75739,6311,1456,36.41,Data Analyst,OH
+Tennessee,74134,6177,1425,35.64,Data Analyst,TN
+Illinois,73973,6164,1422,35.56,Data Analyst,IL
+Utah,73901,6158,1421,35.53,Data Analyst,UT
+Vermont,72641,6053,1396,34.92,Data Analyst,VT
+Virginia,72494,6041,1394,34.85,Data Analyst,VA
+Maryland,72435,6036,1392,34.82,Data Analyst,MD
+Mississippi,71412,5951,1373,34.33,Data Analyst,MS
+Delaware,71386,5948,1372,34.32,Data Analyst,DE
+Colorado,71206,5933,1369,34.23,Data Analyst,CO
+West Virginia,70795,5899,1361,34.04,Data Analyst,WV
+Alabama,69689,5807,1340,33.50,Data Analyst,AL
+Florida,69613,5801,1338,33.47,Data Analyst,FL
+Maine,69468,5789,1335,33.40,Data Analyst,ME
+Oklahoma,68874,5739,1324,33.11,Data Analyst,OK
+South Carolina,68682,5723,1320,33.02,Data Analyst,SC
+Kansas,68643,5720,1320,33.00,Data Analyst,KS
+Michigan,68115,5676,1309,32.75,Data Analyst,MI
+Louisiana,67789,5649,1303,32.59,Data Analyst,LA
+Missouri,67649,5637,1300,32.52,Data Analyst,MO
+Texas,67273,5606,1293,32.34,Data Analyst,TX
+Nebraska,65690,5474,1263,31.58,Data Analyst,NE
+Idaho,65296,5441,1255,31.39,Data Analyst,ID
+Kentucky,63288,5274,1217,30.43,Data Analyst,KY
+North Carolina,62709,5225,1205,30.15,Data Analyst,NC
+Arkansas,62193,5182,1196,29.90,Data Analyst,AR
+Nevada,149976,12498,2884,72.10,Data Engineer,NV
+Oregon,148689,12390,2859,71.49,Data Engineer,OR
+Massachusetts,147512,12292,2836,70.92,Data Engineer,MA
+Hawaii,145975,12164,2807,70.18,Data Engineer,HI
+Alaska,141854,11821,2727,68.20,Data Engineer,AK
+Rhode Island,140442,11703,2700,67.52,Data Engineer,RI
+South Dakota,139670,11639,2685,67.15,Data Engineer,SD
+North Dakota,139565,11630,2683,67.10,Data Engineer,ND
+Washington,137971,11497,2653,66.33,Data Engineer,WA
+New York,134797,11233,2592,64.81,Data Engineer,NY
+Illinois,129669,10805,2493,62.34,Data Engineer,IL
+California,128004,10667,2461,61.54,Data Engineer,CA
+Maryland,125616,10468,2415,60.39,Data Engineer,MD
+Virginia,125440,10453,2412,60.31,Data Engineer,VA
+Colorado,124464,10372,2393,59.84,Data Engineer,CO
+Delaware,123888,10324,2382,59.56,Data Engineer,DE
+Wisconsin,121144,10095,2329,58.24,Data Engineer,WI
+Vermont,120783,10065,2322,58.07,Data Engineer,VT
+New Jersey,120740,10061,2321,58.05,Data Engineer,NJ
+South Carolina,119684,9973,2301,57.54,Data Engineer,SC
+Oklahoma,119180,9931,2291,57.30,Data Engineer,OK
+Michigan,118975,9914,2287,57.20,Data Engineer,MI
+Minnesota,118153,9846,2272,56.80,Data Engineer,MN
+Missouri,117743,9811,2264,56.61,Data Engineer,MO
+Maine,116888,9740,2247,56.20,Data Engineer,ME
+Wyoming,115307,9608,2217,55.44,Data Engineer,WY
+Indiana,114633,9552,2204,55.11,Data Engineer,IN
+Arizona,114596,9549,2203,55.09,Data Engineer,AZ
+Iowa,114453,9537,2201,55.03,Data Engineer,IA
+Connecticut,114164,9513,2195,54.89,Data Engineer,CT
+Texas,113930,9494,2190,54.77,Data Engineer,TX
+Nebraska,113668,9472,2185,54.65,Data Engineer,NE
+Pennsylvania,112786,9398,2168,54.22,Data Engineer,PA
+Georgia,112652,9387,2166,54.16,Data Engineer,GA
+New Hampshire,112502,9375,2163,54.09,Data Engineer,NH
+Kentucky,111411,9284,2142,53.56,Data Engineer,KY
+Idaho,110380,9198,2122,53.07,Data Engineer,ID
+Montana,109941,9161,2114,52.86,Data Engineer,MT
+Ohio,109680,9140,2109,52.73,Data Engineer,OH
+New Mexico,109645,9137,2108,52.71,Data Engineer,NM
+North Carolina,109277,9106,2101,52.54,Data Engineer,NC
+Arkansas,109017,9084,2096,52.41,Data Engineer,AR
+Utah,107642,8970,2070,51.75,Data Engineer,UT
+Tennessee,107350,8945,2064,51.61,Data Engineer,TN
+Mississippi,106556,8879,2049,51.23,Data Engineer,MS
+Kansas,102456,8538,1970,49.26,Data Engineer,KS
+Louisiana,98517,8209,1894,47.36,Data Engineer,LA
+West Virginia,97183,8098,1868,46.72,Data Engineer,WV
+Alabama,96843,8070,1862,46.56,Data Engineer,AL
+Florida,96743,8061,1860,46.51,Data Engineer,FL
+New York,145027,12085,2788,69.72,Data Scientist,NY
+California,143099,11924,2751,68.80,Data Scientist,CA
+Vermont,130783,10898,2515,62.88,Data Scientist,VT
+Maine,129931,10827,2498,62.47,Data Scientist,ME
+Massachusetts,128900,10741,2478,61.97,Data Scientist,MA
+Nevada,128653,10721,2474,61.85,Data Scientist,NV
+New Jersey,127259,10604,2447,61.18,Data Scientist,NJ
+Wisconsin,126987,10582,2442,61.05,Data Scientist,WI
+Washington,126680,10556,2436,60.90,Data Scientist,WA
+Oregon,125467,10455,2412,60.32,Data Scientist,OR
+Hawaii,123953,10329,2383,59.59,Data Scientist,HI
+Idaho,123923,10326,2383,59.58,Data Scientist,ID
+Wyoming,123698,10308,2378,59.47,Data Scientist,WY
+Minnesota,123044,10253,2366,59.16,Data Scientist,MN
+Indiana,122439,10203,2354,58.87,Data Scientist,IN
+Arizona,122400,10200,2353,58.85,Data Scientist,AZ
+Alaska,121680,10140,2340,58.50,Data Scientist,AK
+New Hampshire,121396,10116,2334,58.36,Data Scientist,NH
+Pennsylvania,121315,10109,2332,58.32,Data Scientist,PA
+Georgia,120321,10026,2313,57.85,Data Scientist,GA
+Iowa,118653,9887,2281,57.04,Data Scientist,IA
+Rhode Island,118510,9875,2279,56.98,Data Scientist,RI
+South Dakota,118340,9861,2275,56.89,Data Scientist,SD
+North Dakota,118252,9854,2274,56.85,Data Scientist,ND
+Connecticut,117597,9799,2261,56.54,Data Scientist,CT
+Montana,117429,9785,2258,56.46,Data Scientist,MT
+New Mexico,114991,9582,2211,55.28,Data Scientist,NM
+Illinois,114459,9538,2201,55.03,Data Scientist,IL
+Ohio,114445,9537,2200,55.02,Data Scientist,OH
+Virginia,112528,9377,2164,54.10,Data Scientist,VA
+Maryland,112378,9364,2161,54.03,Data Scientist,MD
+Tennessee,112017,9334,2154,53.85,Data Scientist,TN
+Utah,111953,9329,2152,53.82,Data Scientist,UT
+Delaware,110729,9227,2129,53.24,Data Scientist,DE
+Colorado,110256,9188,2120,53.01,Data Scientist,CO
+Mississippi,109345,9112,2102,52.57,Data Scientist,MS
+Oklahoma,106910,8909,2055,51.40,Data Scientist,OK
+South Carolina,106427,8868,2046,51.17,Data Scientist,SC
+Michigan,105489,8790,2028,50.72,Data Scientist,MI
+Kansas,105118,8759,2021,50.54,Data Scientist,KS
+Texas,104965,8747,2018,50.46,Data Scientist,TX
+Missouri,104859,8738,2016,50.41,Data Scientist,MO
+West Virginia,104532,8711,2010,50.26,Data Scientist,WV
+Alabama,103437,8619,1989,49.73,Data Scientist,AL
+Florida,103328,8610,1987,49.68,Data Scientist,FL
+Louisiana,102592,8549,1972,49.32,Data Scientist,LA
+Nebraska,101966,8497,1960,49.02,Data Scientist,NE
+Kentucky,97824,8152,1881,47.03,Data Scientist,KY
+North Carolina,97172,8097,1868,46.72,Data Scientist,NC
+Arkansas,96232,8019,1850,46.27,Data Scientist,AR
+Washington,109132,9094,2098,52.47,Data Warehouse Analyst,WA
+New York,103494,8624,1990,49.76,Data Warehouse Analyst,NY
+California,100438,8369,1931,48.29,Data Warehouse Analyst,CA
+Massachusetts,94377,7864,1814,45.37,Data Warehouse Analyst,MA
+Nevada,94002,7833,1807,45.19,Data Warehouse Analyst,NV
+Vermont,93069,7755,1789,44.74,Data Warehouse Analyst,VT
+Wisconsin,91666,7638,1762,44.07,Data Warehouse Analyst,WI
+New Jersey,91640,7636,1762,44.06,Data Warehouse Analyst,NJ
+Oregon,91504,7625,1759,43.99,Data Warehouse Analyst,OR
+Maine,91418,7618,1758,43.95,Data Warehouse Analyst,ME
+Hawaii,90464,7538,1739,43.49,Data Warehouse Analyst,HI
+Texas,89813,7484,1727,43.18,Data Warehouse Analyst,TX
+Minnesota,89078,7423,1713,42.83,Data Warehouse Analyst,MN
+Alaska,88908,7409,1709,42.74,Data Warehouse Analyst,AK
+Wyoming,88385,7365,1699,42.49,Data Warehouse Analyst,WY
+Indiana,87653,7304,1685,42.14,Data Warehouse Analyst,IN
+Arizona,87625,7302,1685,42.13,Data Warehouse Analyst,AZ
+Idaho,86821,7235,1669,41.74,Data Warehouse Analyst,ID
+Pennsylvania,86582,7215,1665,41.63,Data Warehouse Analyst,PA
+New Hampshire,86519,7209,1663,41.60,Data Warehouse Analyst,NH
+Rhode Island,86430,7202,1662,41.55,Data Warehouse Analyst,RI
+South Dakota,86346,7195,1660,41.51,Data Warehouse Analyst,SD
+North Dakota,86281,7190,1659,41.48,Data Warehouse Analyst,ND
+Georgia,86137,7178,1656,41.41,Data Warehouse Analyst,GA
+Iowa,86073,7172,1655,41.38,Data Warehouse Analyst,IA
+Connecticut,85552,7129,1645,41.13,Data Warehouse Analyst,CT
+Montana,84066,7005,1616,40.42,Data Warehouse Analyst,MT
+Illinois,83896,6991,1613,40.33,Data Warehouse Analyst,IL
+New Mexico,82988,6915,1595,39.90,Data Warehouse Analyst,NM
+Ohio,82780,6898,1591,39.80,Data Warehouse Analyst,OH
+Virginia,82624,6885,1588,39.72,Data Warehouse Analyst,VA
+Maryland,82490,6874,1586,39.66,Data Warehouse Analyst,MD
+Delaware,81272,6772,1562,39.07,Data Warehouse Analyst,DE
+Utah,81096,6758,1559,38.99,Data Warehouse Analyst,UT
+Tennessee,81023,6751,1558,38.95,Data Warehouse Analyst,TN
+Colorado,80847,6737,1554,38.87,Data Warehouse Analyst,CO
+Mississippi,79684,6640,1532,38.31,Data Warehouse Analyst,MS
+Oklahoma,78499,6541,1509,37.74,Data Warehouse Analyst,OK
+South Carolina,78071,6505,1501,37.53,Data Warehouse Analyst,SC
+Michigan,77358,6446,1487,37.19,Data Warehouse Analyst,MI
+Missouri,76933,6411,1479,36.99,Data Warehouse Analyst,MO
+Kansas,76610,6384,1473,36.83,Data Warehouse Analyst,KS
+Nebraska,74870,6239,1439,36.00,Data Warehouse Analyst,NE
+West Virginia,74604,6217,1434,35.87,Data Warehouse Analyst,WV
+Louisiana,74273,6189,1428,35.71,Data Warehouse Analyst,LA
+Alabama,74050,6170,1424,35.60,Data Warehouse Analyst,AL
+Florida,73973,6164,1422,35.56,Data Warehouse Analyst,FL
+Kentucky,71661,5971,1378,34.45,Data Warehouse Analyst,KY
+North Carolina,71282,5940,1370,34.27,Data Warehouse Analyst,NC
+Arkansas,70536,5878,1356,33.91,Data Warehouse Analyst,AR
+New York,149475,12456,2874,71.86,Machine Learning Engineer,NY
+Vermont,135058,11254,2597,64.93,Machine Learning Engineer,VT
+Massachusetts,130436,10869,2508,62.71,Machine Learning Engineer,MA
+Nevada,130380,10865,2507,62.68,Machine Learning Engineer,NV
+New Jersey,130329,10860,2506,62.66,Machine Learning Engineer,NJ
+Wisconsin,129825,10818,2496,62.42,Machine Learning Engineer,WI
+Washington,127691,10640,2455,61.39,Machine Learning Engineer,WA
+Wyoming,127379,10614,2449,61.24,Machine Learning Engineer,WY
+Oregon,127326,10610,2448,61.21,Machine Learning Engineer,OR
+Indiana,125913,10492,2421,60.54,Machine Learning Engineer,IN
+Arizona,125872,10489,2420,60.52,Machine Learning Engineer,AZ
+Hawaii,125723,10476,2417,60.44,Machine Learning Engineer,HI
+Minnesota,125531,10460,2414,60.35,Machine Learning Engineer,MN
+New Hampshire,125231,10435,2408,60.21,Machine Learning Engineer,NH
+Pennsylvania,125027,10418,2404,60.11,Machine Learning Engineer,PA
+Georgia,123735,10311,2379,59.49,Machine Learning Engineer,GA
+Alaska,123316,10276,2371,59.29,Machine Learning Engineer,AK
+Iowa,120877,10073,2324,58.11,Machine Learning Engineer,IA
+Montana,120760,10063,2322,58.06,Machine Learning Engineer,MT
+Rhode Island,120265,10022,2312,57.82,Machine Learning Engineer,RI
+South Dakota,120052,10004,2308,57.72,Machine Learning Engineer,SD
+North Dakota,119962,9996,2306,57.67,Machine Learning Engineer,ND
+Connecticut,119554,9962,2299,57.48,Machine Learning Engineer,CT
+California,119362,9946,2295,57.39,Machine Learning Engineer,CA
+New Mexico,117578,9798,2261,56.53,Machine Learning Engineer,NM
+Ohio,116832,9736,2246,56.17,Machine Learning Engineer,OH
+Illinois,115728,9644,2225,55.64,Machine Learning Engineer,IL
+Tennessee,114355,9529,2199,54.98,Machine Learning Engineer,TN
+Utah,114169,9514,2195,54.89,Machine Learning Engineer,UT
+Virginia,113631,9469,2185,54.63,Machine Learning Engineer,VA
+Maryland,113503,9458,2182,54.57,Machine Learning Engineer,MD
+Delaware,111847,9320,2150,53.77,Machine Learning Engineer,DE
+Colorado,111448,9287,2143,53.58,Machine Learning Engineer,CO
+Mississippi,111027,9252,2135,53.38,Machine Learning Engineer,MS
+Maine,109324,9110,2102,52.56,Machine Learning Engineer,ME
+Oklahoma,107958,8996,2076,51.90,Machine Learning Engineer,OK
+West Virginia,107730,8977,2071,51.79,Machine Learning Engineer,WV
+South Carolina,107544,8962,2068,51.70,Machine Learning Engineer,SC
+Kansas,106730,8894,2052,51.31,Machine Learning Engineer,KS
+Michigan,106621,8885,2050,51.26,Machine Learning Engineer,MI
+Alabama,106372,8864,2045,51.14,Machine Learning Engineer,AL
+Florida,106258,8854,2043,51.09,Machine Learning Engineer,FL
+Missouri,105947,8828,2037,50.94,Machine Learning Engineer,MO
+Texas,105775,8814,2034,50.85,Machine Learning Engineer,TX
+Louisiana,104667,8722,2012,50.32,Machine Learning Engineer,LA
+Nebraska,102966,8580,1980,49.50,Machine Learning Engineer,NE
+Idaho,102694,8557,1974,49.37,Machine Learning Engineer,ID
+Kentucky,98950,8245,1902,47.57,Machine Learning Engineer,KY
+North Carolina,98192,8182,1888,47.21,Machine Learning Engineer,NC
+Arkansas,97299,8108,1871,46.78,Machine Learning Engineer,AR
+Washington,108915,9076,2094,52.36,Business Analyst,WA
+New York,103867,8655,1997,49.94,Business Analyst,NY
+Maryland,101187,8432,1945,48.65,Business Analyst,MD
+Virginia,100834,8402,1939,48.48,Business Analyst,VA
+California,100388,8365,1930,48.26,Business Analyst,CA
+Delaware,99863,8321,1920,48.01,Business Analyst,DE
+Oklahoma,95802,7983,1842,46.06,Business Analyst,OK
+Massachusetts,95305,7942,1832,45.82,Business Analyst,MA
+Nevada,94881,7906,1824,45.62,Business Analyst,NV
+Vermont,93341,7778,1795,44.88,Business Analyst,VT
+Oregon,92319,7693,1775,44.38,Business Analyst,OR
+Wisconsin,92253,7687,1774,44.35,Business Analyst,WI
+New Jersey,92173,7681,1772,44.31,Business Analyst,NJ
+Maine,91428,7619,1758,43.96,Business Analyst,ME
+Nebraska,91371,7614,1757,43.93,Business Analyst,NE
+Hawaii,91285,7607,1755,43.89,Business Analyst,HI
+Alaska,89739,7478,1725,43.14,Business Analyst,AK
+Minnesota,89712,7476,1725,43.13,Business Analyst,MN
+Texas,89690,7474,1724,43.12,Business Analyst,TX
+Wyoming,88732,7394,1706,42.66,Business Analyst,WY
+Indiana,88038,7336,1693,42.33,Business Analyst,IN
+Arizona,88010,7334,1692,42.31,Business Analyst,AZ
+Rhode Island,87199,7266,1676,41.92,Business Analyst,RI
+South Dakota,87125,7260,1675,41.89,Business Analyst,SD
+North Dakota,87059,7254,1674,41.86,Business Analyst,ND
+Pennsylvania,86897,7241,1671,41.78,Business Analyst,PA
+New Hampshire,86804,7233,1669,41.73,Business Analyst,NH
+Idaho,86739,7228,1668,41.70,Business Analyst,ID
+Iowa,86728,7227,1667,41.70,Business Analyst,IA
+Georgia,86516,7209,1663,41.59,Business Analyst,GA
+Connecticut,86262,7188,1658,41.47,Business Analyst,CT
+Illinois,84744,7062,1629,40.74,Business Analyst,IL
+Montana,84436,7036,1623,40.59,Business Analyst,MT
+New Mexico,83516,6959,1606,40.15,Business Analyst,NM
+Ohio,83353,6946,1602,40.07,Business Analyst,OH
+Utah,81684,6807,1570,39.27,Business Analyst,UT
+Colorado,81671,6805,1570,39.27,Business Analyst,CO
+Tennessee,81583,6798,1568,39.22,Business Analyst,TN
+Mississippi,80378,6698,1545,38.64,Business Analyst,MS
+South Carolina,78875,6572,1516,37.92,Business Analyst,SC
+Michigan,78149,6512,1502,37.57,Business Analyst,MI
+Missouri,77728,6477,1494,37.37,Business Analyst,MO
+Kansas,77279,6439,1486,37.15,Business Analyst,KS
+West Virginia,74874,6239,1439,36.00,Business Analyst,WV
+Louisiana,74802,6233,1438,35.96,Business Analyst,LA
+Alabama,74375,6197,1430,35.76,Business Analyst,AL
+Florida,74298,6191,1428,35.72,Business Analyst,FL
+Kentucky,72376,6031,1391,34.80,Business Analyst,KY
+North Carolina,72016,6001,1384,34.62,Business Analyst,NC
+Arkansas,71249,5937,1370,34.25,Business Analyst,AR
