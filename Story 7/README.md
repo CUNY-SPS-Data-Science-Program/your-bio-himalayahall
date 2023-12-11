@@ -10,3 +10,9 @@ Notes:
 - You will need to develop data visualizations that tell the story of source dependency and shortfall impact.
 
 This assignment is due at the end of week fourteen of the semester
+
+## Submission
+
+For this final asignment I have attempted to tell the whole story using a single visual. To do this I had to use the 'hover over' capabilities of Plotly - hovering over the barplot displays the production concentration percentage, country name, and uses of the Strategic Mineral. As usual, all artifacts - Notebook, Barplot, and Data - are on Github.  Github. The barplot is also included below for quick reference.
+
+[Barplot](https://github.com/CUNY-SPS-Data-Science-Program/your-bio-himalayahall/blob/main/Story%207/Screenshot.png)
